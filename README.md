@@ -1,4 +1,4 @@
-# CodeSharingPlatforms to create a secure code sharing platform.
+# Code Sharing Platform
 
 This project was developed as part of the Java Backend Developer track from JetBrains Academy. It showcases my skills in backend development while also providing exposure to frontend technologies such as HTML, CSS, and JavaScript. The primary focus of the project was to create a secure code sharing platform.
 
